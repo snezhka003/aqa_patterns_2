@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/snezhka003/aqa_patterns_2/actions/workflows/gradle.yml/badge.svg)](https://github.com/snezhka003/aqa_patterns_2/actions/workflows/gradle.yml)
+
 ## Задача №2: тестовый режим
 
 Разработчики интернет-банка, изрядно поворчав, предоставили вам тестовый режим запуска целевого сервиса, в котором открыта программная возможность создания клиентов банка, чтобы вы могли протестировать хотя бы функцию входа.
